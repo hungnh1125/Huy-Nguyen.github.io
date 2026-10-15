@@ -1,0 +1,145 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R /F2 8 0 R /F3 9 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R /F2 8 0 R /F3 9 0 R >> >> /Contents 6 0 R >>
+endobj
+5 0 obj
+<< /Length 4729 >>
+stream
+BT /F2 14 Tf 1 0 0 1 257.7 745.0 Tm (HUY HUNG NGUYEN) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 273.2 726.0 Tm (Auburn, Alabama) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 205.5 712.0 Tm (\(+1\)334-870-5114   |   huyhung.dknec@gmail.com) Tj ET
+0.7 w 42 688 m 570 688 l S
+BT /F2 11 Tf 1 0 0 1 42.0 691.0 Tm (EDUCATION & ACHIEVEMENTS) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 671.0 Tm (Ph.D - Auburn University) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 529.0 671.0 Tm (2023 - Now) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 657.0 Tm (Computer Science and Software Engineering) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 645.0 Tm (Master - Seoul National University) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 524.9 645.0 Tm (2015 - 2018) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 631.0 Tm (Electrical and Computer Engineering) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 619.0 Tm (Thesis Title: Bit Transpose Unit Design for Approximate Memory Architecture) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 607.0 Tm (GPA: 3.8/4.0) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 595.0 Tm (Bachelor - Ha Noi University of Science and Technology) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 524.9 595.0 Tm (2007 - 2012) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 581.0 Tm (Automatic Control \(Honor Class\)) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 569.0 Tm (Thesis Title: Novel Design for Barrier Lyapunov Function) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 557.0 Tm (GPA: 3.2/4.0) Tj ET
+0.7 w 42 535 m 570 535 l S
+BT /F2 11 Tf 1 0 0 1 42.0 538.0 Tm (WORK EXPERIENCE) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 518.0 Tm (Atomi Digital) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 463.4 518.0 Tm (January 2021 - August 2023) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 504.0 Tm (Career Position: R&D Manager) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 492.0 Tm (Deep Learning and Computer Vision) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 480.0 Tm (- Face Verification, Face Identification, and Face-Anti Spoofing \(a component in the eKYC system\)) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 468.0 Tm (- OCR for Identity Card \(a component in the eKYC system\)) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 456.0 Tm (- Smart Queue in Smart Banking Branch \(detect, track customer, and insert in the queue\)) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 444.0 Tm (- Our eKYC system served over two million customers of Sacombank and Lien Viet Post Bank) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 432.0 Tm (Big Data) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 420.0 Tm (- Design and implement a system for storing and analyzing data on banking customer behavior) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 408.0 Tm (System Architecture) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 396.0 Tm (- Upgrade the banking systems in the micro-services architecture using K8S and OpenShift) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 377.0 Tm (Asilla Viet Nam) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 455.2 377.0 Tm (December 2018 - January 2021) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 363.0 Tm (Career Position: AI R&D Team Leader) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 351.0 Tm (Deep Learning and Computer Vision) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 339.0 Tm (- 2D human pose estimation and tracking) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 327.0 Tm (- 3D human pose estimation) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 315.0 Tm (- Unsupervised/Semi-supervised abnormal detection) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 303.0 Tm (- Multiple camera tracking) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 291.0 Tm (- Compress human pose deep learning model using knowledge distillation) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 279.0 Tm (- Object detection and tracking on sports applications \(basketball and volleyball\)) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 267.0 Tm (- Design, implement, and optimize new deep learning models on ARM for IoT applications) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 248.0 Tm (Viettel Research and Development Institute - Viettel Group) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 467.5 248.0 Tm (June 2012 - February 2015) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 234.0 Tm (Career Position: Automation Engineer) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 222.0 Tm (Design the Electric Automatic Systems on Radar Vehicles) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 210.0 Tm (- Design electric systems for the Radar systems) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 198.0 Tm (- Deploy automatic algorithm in Siemens Programmable Logic Controller \(PLC\) devices, SCADA network) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 186.0 Tm (- Upgrade the automatic systems in many Radar centers) Tj ET
+0.7 w 42 164 m 570 164 l S
+BT /F2 11 Tf 1 0 0 1 42.0 167.0 Tm (PUBLICATIONS) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 147.0 Tm (TAB: Transformer Attention Bottlenecks enable User Intervention and) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 135.0 Tm (Debugging in Vision-Language Models) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 123.0 Tm (Pooyan Rahmanzadehgervi, Hung Huy Nguyen, Rosanne Liu, Long Mai, Anh Totti Nguyen) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 111.0 Tm (Proceedings of the IEEE/CVF International Conference on Computer Vision \(ICCV\), 2025, pp. 22551-22562) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Length 3336 >>
+stream
+BT /F2 9 Tf 1 0 0 1 42.0 745.0 Tm (Improving Zero-Shot Object-Level Change Detection by Incorporating) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 733.0 Tm (Visual Correspondence) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 721.0 Tm (Hung Huy Nguyen, Pooyan Rahmanzadehgervi, Long Mai, Anh Totti Nguyen) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 709.0 Tm (2025 IEEE/CVF Winter Conference on Applications of Computer Vision \(WACV\)) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 690.0 Tm (An Approximate Memory Architecture for Energy Saving in Deep) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 678.0 Tm (Learning Application) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 666.0 Tm (Duy Thanh Nguyen, Nguyen Huy Hung, Hyun Kim, and Hyuk-Jae Lee) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 654.0 Tm (IEEE Transactions on Circuits and Systems I: Regular Papers Volume: 67, Issue: 5, Pages: 1588-1601, May. 2020) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 635.0 Tm (Bit Transpose Unit Design for Approximate Memory Architecture) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 623.0 Tm (Nguyen Huy Hung, Duy Thanh Nguyen, and Hyun Kim) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 611.0 Tm (2018 Summer Conference) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 592.0 Tm (Parallel Execution of CT Image Reconstruction with a GPU) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 580.0 Tm (Nguyen Huy Hung, Hyuk-Jae Lee, Dong-Goo Kang, and Seung-Oh Jin) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 568.0 Tm (32nd International Technical Conference on Circuits/Systems, Computers and Communications) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 549.0 Tm (Three-Dimensional Facial Reconstruction Using Two-Dimensional) Tj ET
+BT /F2 9 Tf 1 0 0 1 42.0 537.0 Tm (Images Captured from Cellphones) Tj ET
+BT /F3 9 Tf 1 0 0 1 42.0 525.0 Tm (Nguyen Huy Hung, Sunwoong Kim, and Hyuk-Jae Lee) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 513.0 Tm (2016 Summer Conference) Tj ET
+0.7 w 42 491 m 570 491 l S
+BT /F2 11 Tf 1 0 0 1 42.0 494.0 Tm (PATENT) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 474.0 Tm (AI Smart Warning. Patent number: 5308/2020/QTG, Viet Nam) Tj ET
+0.7 w 42 452 m 570 452 l S
+BT /F2 11 Tf 1 0 0 1 42.0 455.0 Tm (HONORS & AWARDS) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 435.0 Tm (Auburn University Presidential Graduate Research Fellowship) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 533.1 435.0 Tm (2023-2026) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 421.0 Tm (Seoul National University ECE Department Scholarship) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 533.1 421.0 Tm (2016-2017) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 42.0 407.0 Tm (Seoul National University Global Scholarship) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 533.1 407.0 Tm (2015-2016) Tj ET
+0.7 w 42 383 m 570 383 l S
+BT /F2 11 Tf 1 0 0 1 42.0 386.0 Tm (PROGRAMMING SKILLS) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 366.0 Tm (C/C++                               Professional) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 354.0 Tm (PyTorch, Keras                       Professional) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 342.0 Tm (Python, Matlab                       Professional) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 330.0 Tm (OpenCV, OpenGL, CUDA                 Advanced) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 318.0 Tm (PLC, SolidWork, AutoCad              Advanced) Tj ET
+0.7 w 42 296 m 570 296 l S
+BT /F2 11 Tf 1 0 0 1 42.0 299.0 Tm (REFERENCES) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 279.0 Tm (Prof. Anh Totti Nguyen, Auburn University, AL, U.S. \(anhnguyen@auburn.edu\)) Tj ET
+BT /F1 9 Tf 1 0 0 1 42.0 267.0 Tm (Prof. Hyuk-Jae Lee, Seoul National University, Seoul, S. Korea \(hyukjae@snu.ac.kr\)) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Italic >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000267 00000 n 
+0000000413 00000 n 
+0000005193 00000 n 
+0000008580 00000 n 
+0000008652 00000 n 
+0000008723 00000 n 
+trailer
+<< /Size 10 /Root 1 0 R >>
+startxref
+8796
+%%EOF
