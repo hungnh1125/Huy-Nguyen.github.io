@@ -1,20 +1,22 @@
-# Personal Website (GitHub Pages)
+# Hung Huy Nguyen — Personal Academic Website
 
-This folder is ready to publish as a GitHub Pages site.
+Personal website for AI/ML research and engineering opportunities.
 
-## Publish steps
-1. Create a GitHub repo named: `YOUR_GITHUB_USERNAME.github.io`
-2. Upload **all files** in this folder to the repo root (same level as index.html).
-3. Repo → Settings → Pages:
-   - Source: Deploy from a branch
-   - Branch: `main` / Folder: `/ (root)`
-4. Your site will be live at: `https://YOUR_GITHUB_USERNAME.github.io`
+**Live website:** https://hungnh1125.github.io/Huy-Nguyen.github.io/
 
-## Customize
-- Replace `assets/profile.jpg` with your photo (same filename).
-- Replace optional thumbnails:
-  - `assets/highlight_tab.jpg`
-  - `assets/highlight_wacv.jpg`
-- Update links near the top (GitHub / LinkedIn / etc.).
-- If you want: add `cv.pdf` in the repo root and the CV link will work.
+## Site contents
+- Research interests and professional background
+- Peer-reviewed publications and official paper links
+- Media and research-community coverage
+- Honors and awards
+- Curriculum vitae (`cv.pdf`)
 
+## Updating the site
+Edit `index.html` for content and `style.css` for layout. The profile photo is referenced as `assets/profile.jpg`. The CV download points to `cv.pdf` at the repository root.
+
+After updates, check that all external links, the photo, and PDF download work on the live GitHub Pages site. Check desktop and mobile layouts.
+
+## Pending verification
+- Add the owner's exact public LinkedIn profile URL (not the LinkedIn feed URL).
+- Verify the current CV content and the profile photo on the live website.
+- Add additional paper/project URLs only after confirmation.
